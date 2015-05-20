@@ -13,3 +13,9 @@
 	height: 500px;
 	background-image: url('images/landscape.png');
 }
+
+.jumbotron h1 {
+	color: #fff;
+	font-size: 48px;
+	font-weight: bold;
+}
