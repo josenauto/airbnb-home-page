@@ -8,3 +8,8 @@
 	padding-right: 10px;
 	text-transform: uppercase;
 }
+
+.jumbotron {
+	height: 500px;
+	background-image: url('images/landscape.png');
+}
